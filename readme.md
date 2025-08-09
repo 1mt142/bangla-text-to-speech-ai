@@ -1,6 +1,6 @@
 ## Developed by Imtiaz Khandoker(Mohsin)
 
-![Bangla AI UI](path/to/bangla_ai.png)
+![Bangla AI UI](bangla_ai.png)
 
 # First, install system dependencies
 
