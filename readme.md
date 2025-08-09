@@ -24,7 +24,7 @@ brew install libsndfile sox
 ```
 
 # Clone the repository
-git clone https://github.com/yourusername/bengali-tts.git
+git clone https://github.com/1mt142/bangla-text-to-speech-ai
 cd bengali-tts
 
 # Create and activate virtual environment
