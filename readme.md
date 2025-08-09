@@ -1,5 +1,7 @@
 ## Developed by Imtiaz Khandoker(Mohsin)
 
+![Bangla AI UI](path/to/bangla_ai.png)
+
 # First, install system dependencies
 
 # Install required audio libraries
