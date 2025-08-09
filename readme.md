@@ -18,23 +18,3 @@ source bangla_tts_env/bin/activate
 
 pip install --upgrade pip
 pip install streamlit torch transformers numpy scipy
-
-# Try to install soundfile (recommended for macOS)
-
-pip install soundfile
-
-# If soundfile fails, try these alternatives:
-
-pip install librosa
-
-# OR
-
-pip install pydub
-
-# Finally install the rest
-
-pip install huggingface-hub
-
-# If you still have issues, try:
-
-pip install torchaudio --index-url https://download.pytorch.org/whl/cpu
